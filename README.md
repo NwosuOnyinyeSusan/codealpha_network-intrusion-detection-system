@@ -120,3 +120,15 @@ Cybersecurity Intern | Network Security Enthusiast
 [LinkedIn Profile](https://www.linkedin.com/in/onyinye-nwosu-techcrushscholar-4a23931ab/) 
 
 ---
+
+## License & Ownership Notice
+
+## License & Attribution Notice
+
+This project was completed by Onyinye Nwosu as part of the CodeAlpha Internship Program 2025.
+
+All configurations, documentation, and screenshots were created independently by the author unless otherwise stated. This repository is intended for educational and showcase purposes only.
+
+Unauthorized reuse or redistribution of this project content without proper attribution is not permitted.
+
+© 2025 Onyinye Nwosu. All rights reserved.
