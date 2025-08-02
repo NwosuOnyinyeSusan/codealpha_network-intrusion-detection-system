@@ -121,8 +121,6 @@ Cybersecurity Intern | Network Security Enthusiast
 
 ---
 
-## License & Ownership Notice
-
 ## License & Attribution Notice
 
 This project was completed by Onyinye Nwosu as part of the CodeAlpha Internship Program 2025.
