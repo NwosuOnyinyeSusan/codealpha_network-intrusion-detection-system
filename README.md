@@ -125,7 +125,7 @@ Cybersecurity Intern | Network Security Enthusiast
 
 This project was completed by Onyinye Nwosu as part of the CodeAlpha Internship Program 2025.
 
-All configurations, documentation, and screenshots were created independently by the author unless otherwise stated. This repository is intended for educational and showcase purposes only.
+All configurations, documentation, and screenshots were created independently by the author. This repository is intended for educational and showcase purposes only.
 
 Unauthorized reuse or redistribution of this project content without proper attribution is not permitted.
 
